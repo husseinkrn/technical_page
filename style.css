@@ -1,0 +1,68 @@
+#navbar{
+    height: 100%;
+    position: fixed;
+    left: 0px;
+    display: block;
+    width: 20%;
+    margin: 0%;
+    border-right: black solid 1px;
+    border-top: black solid 1px;
+    border-bottom: black solid 1px;
+}
+
+nav a{
+   
+  float: right;
+    width: 100%;   
+    display: block;
+    padding: 15px;
+   
+  
+    
+    
+}
+header{
+    font-size: 32px;
+}
+.nav-link{
+    
+    text-decoration: none;
+    color: black;
+    border-bottom: black solid 1px;
+   
+    
+    text-align: center;
+}
+
+#main-doc{
+    
+    width: 75%;
+    float: right;
+    position: absolute;
+    top: 0%;
+    right: 0%;
+}
+code{
+    background-color: #ddd;
+
+ text-align: left;
+ display: block;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+a{
+   text-decoration: none;
+   color: black;
+  
+   
+}
+#navbar ul {
+  
+    height: 88%;
+    overflow-y: auto;
+    overflow-x: hidden
+}
+ul{
+    list-style: none;
+}
